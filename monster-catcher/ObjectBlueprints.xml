@@ -2,7 +2,7 @@
 <objects>
   <object Name="FSS_pet_jam Hampster" Inherits="BaseHumanoid">
     <!-- Parts -->
-    <part Name="Render" DisplayName="{{M|Hampster Ball}}" Tile="hampsterball/lily_qud.png" ColorString="&amp;w" DetailColor="r" />
+    <part Name="Render" DisplayName="{{dreamsmoke|Hampesper}}" Tile="hampesper/hampesper.png" ColorString="&amp;B" DetailColor="O" />
     <part Name="Body" Anatomy="FSS_pet_jam Hampster Anatomy" />
     <part Name="Description" Short="{{R|Hampster in a ball!}}" />
     <part Name="Pettable" />
@@ -49,7 +49,7 @@
   <object Name="FSS_pet_jam Hampster Ball" Inherits="Armor">
     <part Name="ModSturdy" />
     <part Name="NoDamage" />
-    <part Name="Render" DisplayName="Hampster Ball" RenderString="*" Tile="items/sw_carapace.bmp" TileColor="&amp;g" DetailColor="W" />  <!-- needs sprite and colour! -->
+    <part Name="Render" DisplayName="Hampster Ball" RenderString="*" Tile="hampsterball/hampsterball.png" TileColor="&amp;B" DetailColor="B" />  <!-- needs sprite and colour! -->
     <part Name="Description" Short="TODO" />
     <part Name="Armor" AV="2" DV="4" WornOn="Body" /> <!-- numbers might need adjusting -->
     <part Name="Physics" Category="Natural Armor" IsReal="false" Weight="0" />
