@@ -2,7 +2,9 @@
 <conversations>
   <conversation ID="FSS_pet_jam Hampster">
     <node ID="Start">
-      <text>{{emote|*The Hampster rolls across the ground.*}}</text>
+      <text>
+        {{emote|*rolls around you*}}~
+      </text>
       <choice GotoID="End">Live and drink.</choice>
     </node>
   </conversation>

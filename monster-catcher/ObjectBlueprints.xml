@@ -6,7 +6,7 @@
     <part Name="Body" Anatomy="FSS_pet_jam Hampster Anatomy" />
     <part Name="Description" Short="Small, intelligent eyes peer out at the world through a bubble of carbide-glass." />
     <part Name="Pettable" />
-    <!-- <part Name="ConversationScript" ConversationID="FSS_pet_jam Hampster" /> -->
+    <part Name="ConversationScript" ConversationID="FSS_pet_jam Hampster" />
 
     <!-- Stats -->
     <stat Name="Hitpoints" Value="50" />
@@ -37,7 +37,7 @@
     <property Name="Role" Value="Artillery" />
     <property Name="Story" Value="FSS_pet_jam Ball Story" />
     <tag Name="Pet" />
-    <tag Name="PetResponse" Value="rolls around excitedly, hi" />
+    <tag Name="PetResponse" Value="rolls around excitedly, stares at you unnervingly, squeaks adorably, does a flip in its ball" />
     <tag Name="StartingPet" />
     <tag Name="NoXP" />
     <tag Name="Gender" Value="female" />
@@ -50,7 +50,7 @@
     <part Name="NoDamage" />
     <part Name="Render" DisplayName="Hampster Ball" RenderString="*" Tile="hampsterball/hampsterballcentred.png" TileColor="&amp;B" DetailColor="B" />  <!-- needs sprite and colour! -->
     <part Name="Description" Short="A small, clear sphere of carbide-blue glass" />
-    <part Name="Armor" AV="5" DV="4" WornOn="Body" /> <!-- numbers might need adjusting -->
+    <part Name="Armor" AV="5" DV="5" WornOn="Body" /> <!-- numbers might need adjusting -->
     <part Name="Physics" Category="Natural Armor" IsReal="false" Weight="0" />
     <part Name="MoveCostMultiplier" Amount="-25" />
     <part Name="NaturalEquipment" />
