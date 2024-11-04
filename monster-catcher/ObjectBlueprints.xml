@@ -3,7 +3,7 @@
   <object Name="FSS_pet_jam Hampster" Inherits="BaseHumanoid">
     <!-- Parts -->
     <part Name="Render" DisplayName="{{M|Hampster Ball}}" Tile="hampsterball/lily_qud.png" ColorString="&amp;w" DetailColor="r" />
-    <part Name="Body" Anatomy="Quadruped" />
+    <part Name="Body" Anatomy="FSS_pet_jam Hampster Anatomy" />
     <part Name="Description" Short="{{R|Hampster in a ball!}}" />
     <part Name="Pettable" />
     <part Name="ConversationScript" ConversationID="FSS_pet_jam Hampster" />
@@ -22,6 +22,7 @@
     <!-- Mutations -->
     <mutation Name="SensePsychic" />
     <mutation Name="SunderMind" />
+    <mutation Name="Telepathy" />
 
     <!-- Skills -->
     <skill Name="Acrobatics_Dodge" />
@@ -50,7 +51,7 @@
     <part Name="NoDamage" />
     <part Name="Render" DisplayName="Hampster Ball" RenderString="*" Tile="items/sw_carapace.bmp" TileColor="&amp;g" DetailColor="W" />  <!-- needs sprite and colour! -->
     <part Name="Description" Short="TODO" />
-    <part Name="Armor" AV="2" DV="4" WornOn="Floating Nearby" /> <!-- numbers might need adjusting -->
+    <part Name="Armor" AV="2" DV="4" WornOn="Body" /> <!-- numbers might need adjusting -->
     <part Name="Physics" Category="Natural Armor" IsReal="false" Weight="0" />
     <part Name="MoveCostMultiplier" Amount="-25" />
     <part Name="NaturalEquipment" />
@@ -61,6 +62,7 @@
     <tag Name="NoDefaultBehavior" />
     <tag Name="NoSparkingQuest" />
     <tag Name="ShowAsPhysicalFeature" />
+    <!-- <tag Name="UsesSlots" Value="Back" /> -->
   </object>
 
 </objects>
