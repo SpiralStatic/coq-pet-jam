@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<conversations>
+  <conversation ID="FSS_pet_jam Hampster">
+    <node ID="Start">
+      <text>{{emote|*The Hampster rolls across the ground.*}}</text>
+      <choice GotoID="End">Live and drink.</choice>
+    </node>
+  </conversation>
+</conversations>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<books>
+  <books>
+    <book ID="FSS_pet_jam Ball Story" Title="{{W|My Story Title}}">
+      <page>
+  Write your story for your creature here!
+      </page>
+    </book>
+  </books>
+
+</books>

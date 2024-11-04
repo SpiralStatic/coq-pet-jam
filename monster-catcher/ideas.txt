@@ -1,0 +1,48 @@
+ideas!
+
+- human hand
+- spaghetti?? biscetti, even
+- hampster ball
+- wesel (wsl?)
+- dawnglider (pretty, cool, fun)
+    - wiggly wesel squad?
+- pre-made sprites of h + l
+- something like a werewolf but qud related
+    - were-puma?? cute tail
+- robotic arm
+- nine-tails
+    - inspo from pixel art and stories
+- pet is egg with legs, runs around
+    - can make egg body with xml but not hatch it
+- k9 robot dog
+    - mutant cats? robot dogs!
+
+
+pet:
+hampster ball / electric rat / gen1 starters? / ice frog?
+owner:
+pokemon trainer
+    - truekin beguilinging cybernetic?
+
+pet:
+human hand
+owner:
+handless?
+
+pet:
+wesel
+owner:
+dawnglider
+
+
+
+after having looked at what is actually possible!
+- playable character cannot have custom inventory / subtype / body etc.
+- pet can though
+- pc is just build code + tile + colours + description on screen
+- sprite can be pokemon trainer inspired
+- maybe three variants with different pokemon? we can start with 1 and do more once we finish if we have time and interest
+- first pet?
+    - psychic hampster ball
+- pc?
+    - consul, true kin, throwing arm cybernetic (for pokeballs (grenades))
