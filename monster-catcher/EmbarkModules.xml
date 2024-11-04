@@ -3,13 +3,12 @@
   <module Class="XRL.CharacterBuilds.Qud.QudPregenModule">
     <pregens>
       
-      <pregen Name="MonsterCatcher" Genotype="True Kin" Tile="monstercatcher/monstercatcher.png" Foreground="c" Detail="r" Background="k">
+      <pregen Name="MonsterCatcher" Genotype="True Kin" Tile="monstercatcher/monstercatcher.png" Foreground="y" Detail="r" Background="k">
         <code>H4sIAAAAAAAACs1UXWvbMBR9L/Q/CLNHx8TZGNkgD543xtYWsiZ0g9EH2b7YYrJk9LFhiv/7ruy2thxY1sFKDMbWPffj3KMr3Z2fERKUtIafoDSTInhLglW0jFbLdRS/CcIezyzjxcQhRoflPVbLwnLQaP7u1oTcDZ9HaN824IK+XV9GaUUVzQ2ody6jjr7Ywr0fQUiDbld9QEgSraHOeLtIdxjQhORmqL0ZmYUktdxYBRsB1ijKQ7K1GWf5BbR7+QPERljOB449mYIaijQe2aHphXkqtfeY5IDeWARzPvi7tHtlgVww4TkcyPiAdcNPF/6zjDubnaiKHrPjIt67u6SpFNry51IwMUaxzBrQJyjinNxxHbeSCaO3VuUV1VD4NZ3ORoEoTYXAMvSQpGScmRaBtQ/spS0rAdod+Nc+9EkY4JyVIHLXyspHvzLOG/kLFEKvfOhDKdEYx6Oxm3ZBm10DwqDL4uXaB66hpkwwUc46CDLsN2nQ6kf8x9FJ2wyUAMPyU5ydA3bHh4c7+Rbx1KSBQ26wg8l1PzzeXKHnWM8R2yKnTGJXV1bnllOFB1xJa5iAIJxHStvvdTwHbqhitIeCRNXBFO3Gxe1zbXclpYadoQq7KC9lTp0up7jzfyD6FzfxLM4V+yybhj7tRnaf2/Oz7jc91MGYbwgAAA==</code>
         <description>
-&amp;c&#249;&amp;y Use your head! (as a primary limb in the equipment screen)
-&amp;c&#249;&amp;y Dagger skills, Agility, and Strength
-&amp;c&#249;&amp;y Raise any of the mutations you have (focus horn)
-&amp;c&#249;&amp;y {{W|High Damage}} melee starting build
+&amp;c&#249;&amp;y Surround yourself with friends and become the very best
+&amp;c&#249;&amp;y Starts with a strong throwing arm
+&amp;c&#249;&amp;y {{W|Challenging}} starting build without included pet
 &amp;c&#249;&amp;y Additional preset by {{zetachrome|Flower}} and {{zetachrome|Spiral Static}}
         </description>
       </pregen>
