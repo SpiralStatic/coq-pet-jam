@@ -6,7 +6,7 @@
   </bodyparttypevariants>
 
   <anatomies>
-    <anatomy Name="FSS_pet_jam Hampster Anatomy" BodyType="Tiny Hampster" BodyMobility="1">
+    <anatomy Name="FSS_pet_jam Hampster Anatomy" BodyType="Tiny Hampster" BodyMobility="2">
       <part Type="Telekinetic Grip" />
       <part Type="Floating Nearby" />
       <part Type="Floating Nearby" />
